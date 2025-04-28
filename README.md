@@ -1,5 +1,9 @@
-# Fundamentos-html-css
-Este projeto é o meu primeiro site criado utilizando as tecnologias HTML5 e CSS3. O objetivo é praticar a estruturação de páginas web e a aplicação de estilos básicos.
+Primeiro Site com HTML5 e CSS3
+Este projeto é o meu primeiro site criado utilizando as tecnologias HTML5 e CSS3.
+O objetivo é praticar a estruturação de páginas web e a aplicação de estilos básicos.
+
+📄 Nota: Todos os dados apresentados no site são fictícios, incluindo a personagem (modelo fictícia).
+Os textos são gerados utilizando o modelo de preenchimento "Lorem Ipsum".
 
 📚 Tecnologias Utilizadas
 HTML5 — Estruturação do conteúdo da página.
@@ -26,7 +30,6 @@ Estilização com cores, fontes e espaçamentos no CSS3.
 Clone ou baixe este repositório.
 
 Abra o arquivo index.html em seu navegador.
-
 
 🔥 Melhorias Futuras
 Adicionar interatividade com JavaScript.
